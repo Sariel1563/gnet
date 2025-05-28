@@ -36,13 +36,13 @@ const store = configureStore({
 
 //put these in env variables for public
 const firebaseConfig = {
-  apiKey: "AIzaSyAuV3BoaJc2gHWa69VacEtiuORTILRRSYE",
-  authDomain: "gnet2-d3a87.firebaseapp.com",
-  projectId: "gnet2-d3a87",
-  storageBucket: "gnet2-d3a87.firebasestorage.app",
-  messagingSenderId: "337918855007",
-  appId: "1:337918855007:web:4f02655691af7ee3fc98ea",
-  measurementId: "G-7N37MWHVMZ"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // firebase.initializeApp(firebaseConfig);
