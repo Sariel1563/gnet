@@ -110,7 +110,7 @@ const Add = () => {
             fetchDetails={true}
             onPress={addNewMarker}
             query={{
-              key: 'AIzaSyDGpJukq8hEnSj-igdsKbjdXpDZzPf36ZI',
+              key: '',
               language: 'en',
             }}
             styles={{
