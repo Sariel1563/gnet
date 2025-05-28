@@ -98,7 +98,7 @@ const Add = () => {
               });
             }}
             query={{
-              key: 'AIzaSyDGpJukq8hEnSj-igdsKbjdXpDZzPf36ZI',
+              key: '',
               language: 'en',
             }}
             styles={{
